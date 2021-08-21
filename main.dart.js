@@ -94713,7 +94713,7 @@ R.anM.prototype={
 $0:function(){var s=0,r=P.N(t.P),q=this
 var $async$$0=P.J(function(a,b){if(a===1)return P.K(b,r)
 while(true)switch(s){case 0:s=2
-return P.V(q.a.BR(0,"/sounds/sound.mp3",!0),$async$$0)
+return P.V(q.a.BR(0,"/assets/assets/sounds/sound.mp3",!0),$async$$0)
 case 2:return P.L(null,r)}})
 return P.M($async$$0,r)},
 $S:54}
