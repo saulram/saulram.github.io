@@ -1,21 +1,21 @@
 {
-    "name": "vidya",
+    "name": "Vidya",
     "short_name": "vidya",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#331966",
-    "theme_color": "#331966",
-    "description": "LMS App de  vidya.",
+    "background_color": "#412473",
+    "theme_color": "#412473",
+    "description": "Vidya Cursos.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
+            "src": "icons/icons.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icons/Icon-512.png",
+            "src": "icons/icons.png",
             "sizes": "512x512",
             "type": "image/png"
         }
